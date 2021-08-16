@@ -1,0 +1,29 @@
+h1{
+    color:blue
+}
+
+
+
+.header{
+    /*background-color:beige;*/
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+
+    display: flex;
+    justify-content: space-evenly;
+flex-wrap: wrap;
+
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+
+    background: color #909090;
+
+}
+
+
